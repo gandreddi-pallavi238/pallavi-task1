@@ -1,8 +1,12 @@
 # 🌤 Task 1 – Weather Webpage using Public API
 company:CODTECH IT SOLUTIONS
+
 NAME:GANDREDDI PALLAVI
+
 INTERN ID:CT04DF916
+
 DOMAIN:FULL STACK WEB DEVELOPMENT
+
 DURATION:4 WEEKS
 
 ## 📌 Internship Task
