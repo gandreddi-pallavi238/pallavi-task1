@@ -47,4 +47,5 @@ This is a simple **Weather Webpage** that integrates with the **OpenWeatherMap A
    git clone https://github.com/gandreddi-pallavi238/task1-weather-webpage.git
 
 ## output
-http://127.0.0.1:3000/c:/Users/pallavi/Desktop/task1/index.html
+![image](https://github.com/user-attachments/assets/8a9ae803-81a9-418c-b936-5d8a325a2ecd)
+
