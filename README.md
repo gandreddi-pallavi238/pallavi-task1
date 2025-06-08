@@ -44,4 +44,4 @@ This is a simple **Weather Webpage** that integrates with the **OpenWeatherMap A
 
 1. Clone the repository or download the files:
    ```bash
-   git clone https://github.com/your-username/task1-weather-webpage.git
+   git clone https://github.com/gandreddi-pallavi238/task1-weather-webpage.git
